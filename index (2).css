@@ -10,7 +10,7 @@
   margin-left: 54px;
   gap: 60px;
 }
-.number.word{
+.number.word2{
     display: flex;
     margin-top: 7px;
     margin-left: 50px;
@@ -19,6 +19,7 @@
 }
 .number.word1{
     font-size: 14px;
+
 }
 .box{
     display: flex;
